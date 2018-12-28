@@ -6,8 +6,9 @@
 ### Author: Brent Woodward
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+[![Build Status](https://www.travis-ci.com/BrentTech/06-event-driven-apps.svg?branch=master)](https://www.travis-ci.com/BrentTech/06-event-driven-apps)
+* [repo](https://github.com/BrentTech/06-event-driven-apps)
+* [travis](https://www.travis-ci.com/BrentTech/06-event-driven-apps)
 * [back-end](http://xyz.com)
 
 
