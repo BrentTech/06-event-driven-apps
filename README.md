@@ -1,15 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 06 - Event Driven Applications
 
-### Author: Student/Group Name
+### Author: Brent Woodward
 
 ### Links and Resources
 * [repo](http://xyz.com)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+
 
 ### Modules
 #### `modulename.js`
@@ -23,8 +23,7 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - Port set by environment.
 
 #### Running the app
 * `npm start`
@@ -37,6 +36,3 @@ Usage Notes or examples
 * How do you run tests?
 * What assertions were made?
 * What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
