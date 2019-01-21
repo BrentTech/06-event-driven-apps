@@ -10,5 +10,18 @@
   "license": "MIT",
   "dependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrentTech/06-event-driven-apps.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/BrentTech/06-event-driven-apps/issues"
+  },
+  "homepage": "https://github.com/BrentTech/06-event-driven-apps#readme"
 }
